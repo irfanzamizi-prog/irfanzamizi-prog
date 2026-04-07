@@ -34,8 +34,8 @@ Algorithm Analysis & Design · Network & Data Communication · Mandarin (HSK Lev
 | Project | Description | Stack |
 |---|---|---|
 | [KPMIM Companion App](https://github.com/irfanzamizi-prog/kpmim-companion) | AI-powered student assistant ("Kimi") for KPMIM — bilingual RAG chatbot with college knowledge base | FastAPI · PostgreSQL · Claude API · FlutterFlow |
-| [CiteMe]((https://citeme-omega.vercel.app)) | Academic citation generator supporting APA, MLA, and Harvard formats | React · Vercel |
-| [QRDrop]((https://qrdrop-self-dev-proj.vercel.app)) | QR code generator with file upload and shareable links | Next.js · Supabase · Vercel |
+| [CiteMe](https://citeme-omega.vercel.app) | Academic citation generator supporting APA, MLA, and Harvard formats | React · Vercel |
+| [QRDrop](https://qrdrop-self-dev-proj.vercel.app) | QR code generator with file upload and shareable links | Next.js · Supabase · Vercel |
 | [Parking Slot Reservation System](https://github.com/irfanzamizi-prog) | Console-based reservation system with file handling and exception management | Python |
 | [Azure Sands Resort Database](https://github.com/irfanzamizi-prog) | Fully normalised relational database (0NF → 3NF) with complete SQL documentation | MySQL |
 | [Parcel Management System](https://github.com/irfanzamizi-prog) | Full system analysis deliverable — DFD (3 levels), ERD, SRS, and UI prototypes | SAD · draw.io |
