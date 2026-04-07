@@ -1,43 +1,68 @@
-# Hi there! I'm Irfan 👋
+# Muhammad Irfan Muhaimin
 
-🎓  Diploma in Computer Science @ Kolej Profesional MARA Indera Mahkota
-📍  Kuantan, Pahang, Malaysia
-🚀  Aspiring to study CS at a world-class university abroad
-💡  Passionate about software development, databases & AI
-🌙  Student Representative Council | Islamic Activities Organiser
+**Diploma in Computer Science** · Kolej Profesional MARA Indera Mahkota (KPMIM), Kuantan
+**Aspiring to read Computer Science at the University of Manchester** via MARA World Top University programme
 
 ---
 
-## 🛠️  My Tech Stack
+## About Me
 
-**Languages:**  Python  |  SQL  |  Java (learning)  |  HTML/CSS (learning)
-**Databases:**  MySQL  |  SQLite
-**Tools:**  Git  |  GitHub  |  VS Code  |  draw.io (ER diagrams)
+I am a third-semester Computer Science diploma student with a strong interest in full-stack development, AI-powered applications, and mobile development. Alongside my studies, I serve as MPP Spiritual EXCO and actively build real-world software projects to strengthen my engineering foundation.
 
----
-
-## 🚀  Featured Projects
-
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| 🅿️ Parking Slot Reservation System | Smart system for booking parking slots | Python |
-| 🏨 Hotel Booking System | Full hotel room booking with database | Python, MySQL |
-| 📦 Parcel Management System | System analysis & design project | SAD, ER Diagram |
-| 🗄️ Database Normalization Project | Database design from 1NF to 3NF | MySQL |
+I am currently working toward a CGPA of 3.80+ and preparing for the MARA WTU application to continue my studies at a world-class university.
 
 ---
 
-## 📈  Current Goals
+## Tech Stack
 
-- [ ] Achieve CGPA 3.75+ for MARA WTU sponsorship
-- [ ] Score IELTS 7.0+
-- [ ] Apply to top CS universities overseas (Cambridge, Oxford, Manchester, Melbourne)
-- [ ] Build 5+ portfolio projects before graduation
-- [ ] Learn Data Structures & Algorithms (LeetCode grind 💪)
+**Backend**
+Python · FastAPI · PostgreSQL · MySQL · Supabase · REST APIs
+
+**Frontend & Mobile**
+Next.js · React · Flutter · FlutterFlow · HTML/CSS
+
+**AI & Tooling**
+Claude API · Retrieval-Augmented Generation (RAG) · Git · GitHub · VS Code
+
+**Currently learning**
+Algorithm Analysis & Design · Network & Data Communication · Mandarin (HSK Level 2)
 
 ---
 
-## 📫  Get In Touch
+## Projects
 
-📍  Kuantan, Pahang, Malaysia
-📧  [muhaiminirfan75@gmail.com]
+| Project | Description | Stack |
+|---|---|---|
+| [KPMIM Companion App](https://github.com/irfanzamizi-prog/kpmim-companion) | AI-powered student assistant ("Kimi") for KPMIM — bilingual RAG chatbot with college knowledge base | FastAPI · PostgreSQL · Claude API · FlutterFlow |
+| [CiteMe](https://citeme.vercel.app) | Academic citation generator supporting APA, MLA, and Harvard formats | React · Vercel |
+| [QRDrop](https://qrdrop.vercel.app) | QR code generator with file upload and shareable links | Next.js · Supabase · Vercel |
+| [Parking Slot Reservation System](https://github.com/irfanzamizi-prog) | Console-based reservation system with file handling and exception management | Python |
+| [Azure Sands Resort Database](https://github.com/irfanzamizi-prog) | Fully normalised relational database (0NF → 3NF) with complete SQL documentation | MySQL |
+| [Parcel Management System](https://github.com/irfanzamizi-prog) | Full system analysis deliverable — DFD (3 levels), ERD, SRS, and UI prototypes | SAD · draw.io |
+
+---
+
+## Academic Background
+
+**Kolej Profesional MARA Indera Mahkota** · Kuantan, Pahang, Malaysia
+Diploma in Computer Science (DCS) · Semester 3 of 5
+
+Relevant coursework: Web Programming · Algorithm Analysis & Design · Network & Data Communication · Database Systems · Calculus & Number Theory
+
+**Target:** CGPA 3.80+ · IELTS 7.0+ · University of Manchester (CS)
+
+---
+
+## Leadership & Activities
+
+- **MPP Spiritual EXCO** — Majlis Perwakilan Pelajar, KPMIM
+- MUN delegate — IPMA MUN, represented Mexico at UNHRC (platform-based online censorship)
+- Islamic content creator for MPP KPMIM (Ramadan educational series, event materials)
+
+---
+
+## Contact
+
+- GitHub: [github.com/irfanzamizi-prog](https://github.com/irfanzamizi-prog)
+- Location: Kuantan, Pahang, Malaysia
+- Available for freelance collaboration via [Fastwork](https://fastwork.my) and LinkedIn
